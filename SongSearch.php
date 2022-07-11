@@ -1,11 +1,4 @@
 <!--
-    Sania Azhar    (z1884677)
-    Nikolas Gatov  (z1884744)
-    Leo Jaos       (z1911688)
-    Olivia Merrell (z1896986)
-    Muhammad Naeem (z1906224)
-    
-    CSCI 466-0001
     Group Project - Karaoke Management System
 -->
 
@@ -13,8 +6,8 @@
     <?php
         session_start();
 
-        $username='z1896986';
-        $password='2002Jan22';
+        $username='HIDDEN';
+        $password='HIDDEN';
 
         try
         {
